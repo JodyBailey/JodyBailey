@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JodyBailey
-- 👀 I’m interested in Development Related Subbjects.
+- 👀 I’m interested in Development Related Subjects.
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Anything Regarding Web Development
+- 💞️ I’m looking to collaborate on Any Projects Requiring HTML, CSS and Javascript, When I Get Proficient At It  :)
 - 📫 How to reach me - jjeb2020@gmail.com
 
 <!---
